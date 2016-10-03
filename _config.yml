@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+#permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            WSO2 ESB en Español
+tagline:          'Desarrollo sobre WSO2 ESB en español'
+description:      ''
+url:              http://wso2esbenespanol.es
+baseurl:          /
+
+paginate:         5
+
+excerpt_separator: <!--more-->
