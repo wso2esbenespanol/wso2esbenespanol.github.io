@@ -11,9 +11,9 @@ tags:
 
 Esta primera entrada al ser la primera es más a nivel de concepto, entender qué es, para qué sirve, dónde y cuándo aplicarlo, etc. Así que, sin más dilación, vamos a ello.
 
-En primer lugar, necesitamos colocarnos en el contexto de una empresa que quiere migrar su arquitectura hacia una que dé mejor rendimiento. Una de las soluciones que más está de moda en este momento es diseñar una arquitectura orientada a microservicios, y es la que vamos a usar para explicar qué es un ESB. Así que, nos imaginamos que han hecho un profundo análisis y ha el resultado ha sido este ;)
+En primer lugar, necesitamos colocarnos en el contexto de una empresa que quiere migrar su arquitectura hacia una que dé mejor rendimiento. Una de las soluciones que más está de moda en este momento es diseñar una arquitectura orientada a microservicios, y es la que vamos a usar para explicar qué es un ESB. Así que, nos imaginamos que han hecho un profundo análisis y el resultado ha sido este ;)
 
-Como hoy día, puede que millones de usuarios utilicen una plataforma de manera activa, las aplicaciones monolíticas no dan el rendimiento esperado y terminan por dar servicio.
+Como hoy día, puede que millones de usuarios utilicen una plataforma de manera activa, las aplicaciones monolíticas no dan el rendimiento esperado y terminan por no dar servicio.
 
 Una arquitectura orientada a microservicios es repartir la responsabilidad que antes estaba en un único sitio entre muchos componentes pequeños. Esos componentes son conocidos como "building blocks”, aunque en adelante los llamaremos simplemente módulos. Como no es el objetivo de esta entrada, ni de este proyecto, explicar los microservicios, para quién esté intersado, dejo un [link](http://martinfowler.com/articles/microservices.html) al blog de Martin Fowler, dónde se puede encontrar más información al respecto.
 
