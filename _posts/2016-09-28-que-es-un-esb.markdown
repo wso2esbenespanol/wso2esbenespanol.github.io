@@ -21,7 +21,7 @@ Por poner un ejemplo, podemos tomar una empresa que expone una red social de rec
 
 Muchas soluciones de este tipo (conocidas como arquitecturas SOA), hacen que todos los módulos se comuniquen directamente entre ellos, e incluso en ocasiones son los propios módulos los que tienen la responsabilidad de hacer otras tareas a parte de servir su información/lógica, por ejemplo, encargarse de la securización.
 
-Y aquí tenemos el primer problema, que no es más que un nudo de comunicaciones punto a punto entre cuantos módulos tengamos en la arquitectura (cuantos más, peor). Y otros problemas son aplicar lo que se conocen como QoS: no perdida de las peticiones, securización, monitorización, transformación entre servicios con protocolos modernos y aplicaciones legadas, etc.
+Y aquí tenemos el primer problema: existe un nudo de comunicación entre los distintos módulos que componen la arquitectura.  El problema empeora cuantos más módulos existan. Y otros problemas son aplicar lo que se conocen como QoS: no perdida de las peticiones, securización, monitorización, transformación entre servicios con protocolos modernos y aplicaciones legadas, etc.
 
 Para todo ello, lo que se suele utilizar es una solución de integración. Un único componente por el que pasan todas las comunicaciones. Es dejar que esa pieza se encargue de toda responsabilidad que tenga que ver con la mediación, o interoperabilidad.
 
