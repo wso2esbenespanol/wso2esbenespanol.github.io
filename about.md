@@ -19,4 +19,4 @@ Rellenar.
 
 ## Sergio Rodríguez
 
-Soy Sergio Rodríguez Calvo. Desde Marzo de 2014 he estado trabajando primero en el sector aeronáutico en Automatización y Robótica, posteriormente en Interoperabilidad Sanitaria, y actualmente en ING Bank España, en el departamento de Arquitectura Empresarial como Arquitecto Software desarrollando e implantando la nueva arquitectura. Mis CVs: [CV](http://sergiorodriguezcalvo.github.io/) [Story](http://stackoverflow.com/story/serrodcal) [Github](https://github.com/serrodcal)
+Graduado en Ingeniería Software por la Universidad de Sevilla, desde Marzo de 2014 he estado trabajando primero en el sector aeronáutico en Automatización y Robótica, posteriormente en Interoperabilidad Sanitaria, y actualmente en ING Bank España, en el departamento de Arquitectura Empresarial como Arquitecto Software desarrollando e implantando la nueva arquitectura. Mis CVs: [CV](http://sergiorodriguezcalvo.github.io/) [Story](http://stackoverflow.com/story/serrodcal) [Github](https://github.com/serrodcal)
